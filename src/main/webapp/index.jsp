@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class="content-box" >
-    <h1>WELOME TO HELPDESK MANAGEMENT</h1>
+    <h1>WELOME TO OUR SHOP</h1>
     <a href="login.jsp"><button>Get Started</button></a></div>
 </body>
 </html>
